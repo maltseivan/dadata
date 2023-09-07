@@ -1,0 +1,11 @@
+{
+    "name": "lighthouse/test",
+    "authors": [
+        {
+            "name": "Isaev"
+        }
+    ],
+    "require": {
+        "hflabs/dadata": "^22.3"
+    }
+}
